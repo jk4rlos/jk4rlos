@@ -13,34 +13,9 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jk4rlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk4rlos&layout=compact&langs_count=8&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jk4rlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk4rlos&layout=compact&langs_count=8&theme=dark" />
 </p>
-
----
-
-### 👨‍💻 Sobre Mim
-
-Sou um profissional focado e dedicado, atualmente atuando como Desenvolvedor Full-Stack. Minha jornada na tecnologia começou no curso técnico do IFPE, onde estou concluindo o 4º e último ano.
-
-Além das competências adquiridas academicamente, busquei ativamente expandir meu conhecimento através de cursos extracurriculares, o que me permitiu dominar tecnologias modernas e aplicá-las em projetos reais.
-
-- 🎓 Cursando o 4º ano do Ensino Médio Técnico no **IFPE - Campus Garanhuns**.
-- 💼 Atuando como **Desenvolvedor Full-Stack** no mercado.
-- 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
-
----
-
-### 🎓 Formação Acadêmica (IFPE)
-
-Minha formação técnica integrada me proporcionou uma base sólida que vai além do ensino médio tradicional, cobrindo áreas essenciais da computação:
-
-* **Fundamentos:** Lógica de Programação e Informática Básica.
-* **Desenvolvimento:** Programação Orientada a Objetos (Java), Programação Web (HTML, CSS, JavaScript).
-* **Dados:** Banco de Dados com PostgreSQL.
-* **Infraestrutura:** Arquitetura de Computadores e Redes.
-* **Processos:** Engenharia de Software, Testes de Software e Gerência de Projetos.
-* **Em andamento:** Tópicos Avançados, Arquitetura de Software e Design/Usabilidade.
 
 ---
 
@@ -78,13 +53,38 @@ Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos e
 
 ---
 
+### 👨‍💻 Sobre Mim
+
+Sou um profissional focado e dedicado, atualmente atuando como Desenvolvedor Full-Stack. Minha jornada na tecnologia começou no curso técnico do IFPE, onde estou concluindo o 4º e último ano.
+
+Além das competências adquiridas academicamente, busquei ativamente expandir meu conhecimento através de cursos extracurriculares, o que me permitiu dominar tecnologias modernas e aplicá-las em projetos reais.
+
+- 🎓 Cursando o 4º ano do Ensino Médio Técnico no **IFPE - Campus Garanhuns**.
+- 💼 Atuando como **Desenvolvedor Full-Stack** no mercado.
+- 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+
+---
+
+### 🎓 Formação Acadêmica (IFPE)
+
+Minha formação técnica integrada me proporcionou uma base sólida que vai além do ensino médio tradicional, cobrindo áreas essenciais da computação:
+
+* **Fundamentos:** Lógica de Programação e Informática Básica.
+* **Desenvolvimento:** Programação Orientada a Objetos (Java), Programação Web (HTML, CSS, JavaScript).
+* **Dados:** Banco de Dados com PostgreSQL.
+* **Infraestrutura:** Arquitetura de Computadores e Redes.
+* **Processos:** Engenharia de Software, Testes de Software e Gerência de Projetos.
+* **Em andamento:** Tópicos Avançados, Arquitetura de Software e Design/Usabilidade.
+
+---
+
 ### 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU-PERFIL-DO-LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-neto-2604a0340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[SEU-EMAIL@gmail.com]" target="_blank">
+  <a href="mailto:devjk4rlos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
