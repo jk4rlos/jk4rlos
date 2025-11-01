@@ -10,6 +10,15 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jk4rlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk4rlos&layout=compact&langs_count=8&theme=dracula" />
+</p>
+
+---
+
 ### 👨‍💻 Sobre Mim
 
 Sou um profissional focado e dedicado, atualmente atuando como Desenvolvedor Full-Stack. Minha jornada na tecnologia começou no curso técnico do IFPE, onde estou concluindo o 4º e último ano.
@@ -65,15 +74,6 @@ Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos e
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=8&theme=dracula" />
 </p>
 
 ---
