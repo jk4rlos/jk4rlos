@@ -1,5 +1,6 @@
 <h1 align="center">
-  Olá, eu sou José Carlos de Souza Neto 👋
+  Prazer! Meu nome é José Carlos :)
+  <h2> Seja muito bem vindo(a) ao meu respositório do Github</h2>
 </h1>
 
 <p align="center">
@@ -49,7 +50,7 @@ Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos e
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Sou Desenvolvedor Full Stack com experiência no desenvolvimento de **sistemas web, e-commerces e aplicações comerciais**, atuando desde a concepção da solução até o deploy em produção.
 
@@ -65,7 +66,7 @@ Trabalho com **metodologias ágeis (Scrum e Kanban)**, participando ativamente d
 
 ---
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 
 **Técnico em Informática – IFPE (Ensino Médio Integrado)**
 
@@ -80,7 +81,7 @@ Formação com forte base prática e teórica em computação, incluindo:
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-neto-2604a0340" target="_blank">
