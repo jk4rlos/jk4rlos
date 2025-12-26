@@ -1,6 +1,6 @@
 <h1 align="center">
   Prazer! Meu nome é José Carlos :)
-  <h2> Seja muito bem vindo(a) ao meu respositório do Github</h2>
+  <h2 align="center"> Seja muito bem vindo(a) ao meu respositório do Github</h2>
 </h1>
 
 <p align="center">
