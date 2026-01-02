@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong> com foco em aplicações web modernas, escaláveis e orientadas a resultados.
   <br>
-  Técnico em Informática pelo <strong>IFPE – Campus Garanhuns</strong>, com experiência prática em projetos reais e entrega em produção.
+  Técnico em Informática pelo <strong>IFPE – Campus Garanhuns</strong>, com experiência no mercado de trabalho de forma prática em projetos reais e entrega em produção.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ### Habilidades & Ferramentas (Stack)
 
-Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos e de cursos extracurriculares. 
+Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos, de cursos extracurriculares eno meu dia a dia profissional. 
 <p align="center"> <strong>Frontend:</strong> <br> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
@@ -52,7 +52,7 @@ Esta é a stack que utilizo no dia a dia, combinando conhecimentos acadêmicos e
 
 ### Sobre Mim
 
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento de **sistemas web, e-commerces e aplicações comerciais**, atuando desde a concepção da solução até o deploy em produção.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de **sistemas web, e-commerces e aplicações comerciais**, atuando desde a concepção da solução até o deploy em produção, estando a 3 anos praticados no mercado de desenvolvimento.
 
 Tenho forte atuação com **PHP e Laravel**, criando aplicações robustas, organizadas e escaláveis, além de experiência com **frontend moderno**, priorizando performance, responsividade e boa experiência do usuário.
 
