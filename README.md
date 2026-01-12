@@ -76,8 +76,10 @@ Formação com forte base prática e teórica em computação, incluindo:
 - Desenvolvimento Web (HTML, CSS, JavaScript)
 - Bancos de Dados Relacionais (PostgreSQL, MySQL)
 - Engenharia de Software e Análise de Sistemas
-- Arquitetura de Computadores e Redes
+- Arquitetura de Computadores, Redes e Software
 - Gerência de Projetos e boas práticas de desenvolvimento
+- Desenvolvimento Ágil
+- UI/UX para dispositivos móveis
 
 ---
 
